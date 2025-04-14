@@ -4,14 +4,14 @@ import { colors } from '../../styles/theme';
 export const PromoWrapper = styled.div`
   display: flex;
   justify-content: space-around;
-  gap: 300px;
+  gap: 150px;
   align-items: center;
   background-color: #f5f5f5;
   border-radius: 40px;
   padding: 60px 80px;
   margin-top: 40px;
-  margin-left: 100px;
-  margin-right: 100px;
+  margin-left: 50px;
+  margin-right: 50px;
 `;
 
 export const TextContent = styled.div`

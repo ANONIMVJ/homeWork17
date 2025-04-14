@@ -56,7 +56,7 @@ const Catalog = () => {
     <CatalogWrapper>
         <CatalogHeader>
           <CatalogTitle>Каталог</CatalogTitle>
-          <ViewAllButton>Весь каталог →</ViewAllButton>
+          <ViewAllButton>Весь каталог </ViewAllButton>
         </CatalogHeader>
 
         <CatalogGrid>

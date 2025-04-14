@@ -3,7 +3,7 @@ import styled from 'styled-components';
 export const CatalogWrapper = styled.section`
   padding: 80px 0;
   background-color: #fff;
-  max-width: 1320px;
+  max-width: 1280px;
   margin: 0 auto;
   font-family: 'Inter', sans-serif;
 `;
